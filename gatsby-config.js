@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `BenBallance.com`,
     author: `Ben Ballance`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `The personal website of Ben Ballance - a digital marketer living in Philadelphia, PA.`,
     siteUrl: `https://www.benballance.com/`,
     social: {
       twitter: `ben-ballance`,

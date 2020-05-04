@@ -36,7 +36,7 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong> who lives and works in Philadelphia, PA.
               {` `}
-              <a href={`https://linkedin.com/in/${social.linkedin}`}>
+              <a href={`https://linkedin.com/in/ben-ballance`}>
                 You can connect with him on LinkedIn.
               </a>
             </p>
