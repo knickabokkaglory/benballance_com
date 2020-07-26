@@ -92,7 +92,6 @@ module.exports = {
       options: {
         siteUrl: 'https://www.benballance.com',
       },
-      },
     },
   ],
 }
