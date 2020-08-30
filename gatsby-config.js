@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `BenBallance.com`,
+    title: `Ben Ballance's Personal Website`,
     author: `Ben Ballance`,
-    description: `The personal website of Ben Ballance - a digital marketer living in Philadelphia, PA.`,
+    description: `The personal website of Ben Ballance - a digital marketer and person living in Philadelphia, PA.`,
     siteUrl: `https://www.benballance.com/`,
     social: {
       twitter: `ben-ballance`,

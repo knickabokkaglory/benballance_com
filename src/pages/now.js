@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 class NowPage extends React.Component {
   render() {
-    const siteTitle = "Ben Ballance - Digital Marketer, Person"
+    const siteTitle = "Ben Ballance's Webiste"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -35,7 +35,7 @@ class NowPage extends React.Component {
         </ul>
         <h2>Running</h2>
         <p>A fortunate side effect of the COVID-19 pandemic has been my renewed focus on running. After being woefully out of shape the past few years, I'm targeting running a 10K at a sub 8-min/mile pace by the end of this year.</p>
-        <i>This page was inspired by Derek Sivers and his <a href="https://www.nownownow.com">Now Now Now project</a> and was last updated on July 8, 2020.</i>
+        <p><i>This page was last updated on July 8, 2020</i></p>
       </Layout>
     )
   }
