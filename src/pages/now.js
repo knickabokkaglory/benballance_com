@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 class NowPage extends React.Component {
   render() {
-    const siteTitle = "Ben Ballance's Webiste"
+    const siteTitle = "Ben Ballance's Website"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
