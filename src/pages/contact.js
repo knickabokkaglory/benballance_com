@@ -14,18 +14,13 @@ class ContactPage extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <h1>Contact Me</h1>
+        <p>Fill out the form below, hit submit, and I'll get back to you ASAP. Thanks!</p>
         <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
   <p>
     <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
   </p>
   <p>
     <label>Message: <textarea name="message"></textarea></label>
